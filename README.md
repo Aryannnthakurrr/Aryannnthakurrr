@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aryan Thakur</h1>
 <h3 align="center">An aspiring software developer from India</h3>
 
-- 🔭 I’m currently working on **DevSource**
+- 🔭 I’m currently working on **Bookbot**
 
-- 🌱 I’m currently learning **Node.js,Express.js and Mongo.DB**
+- 🌱 I’m currently a 2nd year student
 
 - 👨‍💻 My portfolio website [https://aryanthakur.vercel.app/](https://aryanthakur.vercel.app/)
 
